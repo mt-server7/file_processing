@@ -1,6 +1,4 @@
 #!/usr/bin/python3
-#version 7 
-#created specifically for Aksioma/launch
 
 import pandas as pd
 import pathlib
